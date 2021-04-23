@@ -2,7 +2,7 @@ import Head from 'next/head';
 import styles from '../styles/Home.module.css';
 
 type Props = {
-  title: string;
+  title: string : 3412
 };
 
 export default function Home({ title }: Props) {
