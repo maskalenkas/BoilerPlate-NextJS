@@ -8,5 +8,6 @@
 - NextJS
 - Jest
 - Styled Components
+- Estilo global
 
 # Aproveite!
