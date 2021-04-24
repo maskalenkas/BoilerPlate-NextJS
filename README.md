@@ -5,11 +5,13 @@
 - TS
 - Eslint
 - Prettier
-- NextJS
-- Jest
+- NextJS ( yarn start )
+- Jest ( yarn test, yarn test:watch )
 - Styled Components
 - Global styles
-- Plop para gerar arquivos automaticamnete
+- Plop para gerar arquivos automaticamnete ( yarn generate )
 - DependaBot ja configurado para não quebrar
+- PWD
+- StoryBook ( yarn storybook )
 
 # Aproveite!
