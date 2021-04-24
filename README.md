@@ -8,6 +8,8 @@
 - NextJS
 - Jest
 - Styled Components
-- Estilo global
+- Global styles
+- Plop para gerar arquivos automaticamnete
+- DependaBot ja configurado para não quebrar
 
 # Aproveite!
