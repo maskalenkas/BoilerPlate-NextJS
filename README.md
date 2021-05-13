@@ -1,19 +1,87 @@
 # Tecnologias nesse boilerplate:
 
-- Husky
-- Lint-Staged 
+~~- Husky~~
+> Usado para evitar commits errados. Ele vai testar todo o seu projeto antes de qualquer commit, e caso retorne erro, vai fazer com que não funcione.
+
+~~- Lint-Staged~~
+> Vai ser utilizado junto com o **Husky**
+
+------------
+
+
 - TS
+
+------------
+
+
 - Eslint
+
+------------
+
+
 - Prettier
-- NextJS ( yarn start )
+
+------------
+
+
+- NextJS
+>`yarn start`
+
+------------
+
+
 - Jest ( yarn test, yarn test:watch )
+>`yarn test`
+>`yarn test:watch`
+
+------------
+
+
 - Styled Components
+
+------------
+
+
 - Global styles
-- Plop para gerar arquivos automaticamnete ( yarn generate )
-- DependaBot ja configurado para não quebrar
+
+------------
+
+
+- Plop
+> Gera arquivos automaticamente
+> `yarn generate <nome arquivo>`
+
+------------
+
+
+- DependaBot
+> Atuaiza o projeto automaticamente
+
+------------
+
+
 - PWD
-- StoryBook ( yarn storybook )
-- Styled-media-query para utilizar medias
-- componente mediaWatch para escolher renderizar ou não algo
+
+------------
+
+
+- StoryBook
+> `yarn storybook`
+
+------------
+
+
+- Styled-media-query
+> São as medias queries para estilos
+
+------------
+
+
+- componente mediaWatch
+> São as medias queries para renderizar componente
+
+------------
+
+
 
 # Aproveite!

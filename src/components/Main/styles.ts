@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled, { css } from 'styled-components';
 
 export const Wrapper = styled.main`
   background-color: #06092b;
@@ -19,7 +19,10 @@ export const Logo = styled.img`
 `;
 
 export const Title = styled.h1`
-  font-size: 2.5rem;
+  ${({ theme }) => css`
+    font-size: 2.5rem;
+    color: ${theme.colors.primary};
+  `}
 `;
 
 export const Description = styled.h2`
