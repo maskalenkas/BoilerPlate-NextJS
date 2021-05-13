@@ -13,5 +13,7 @@
 - DependaBot ja configurado para não quebrar
 - PWD
 - StoryBook ( yarn storybook )
+- Styled-media-query para utilizar medias
+- componente mediaWatch para escolher renderizar ou não algo
 
 # Aproveite!
