@@ -54,13 +54,13 @@
 ------------
 
 
-- DependaBot
+~~- DependaBot~~
 > Atuaiza o projeto automaticamente
 
 ------------
 
 
-- PWD
+- PWA
 
 ------------
 
@@ -72,13 +72,13 @@
 
 
 - Styled-media-query
-> São as medias queries para estilos
+> São as medias queries para renderizar estilos
 
 ------------
 
 
 - componente mediaWatch
-> São as medias queries para renderizar componente
+> São as medias queries utilizadas para renderizar componente
 
 ------------
 
