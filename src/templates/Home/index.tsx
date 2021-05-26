@@ -1,9 +1,12 @@
 import * as S from './styles';
 
-const Main = ({
-  title = 'React Avançado',
-  description = 'TypeScript, ReactJS, NextJS e Styled Components',
-}) => (
+export type HomeTemplateProps = {
+  title?: string;
+  description?: string;
+};
+
+// Recebendo as props do NEXT
+const Home = ({ title, description }: HomeTemplateProps) => (
   <S.Wrapper>
     <S.Logo
       src="/img/logo.svg"
@@ -18,4 +21,4 @@ const Main = ({
   </S.Wrapper>
 );
 
-export default Main;
+export default Home;
